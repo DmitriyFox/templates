@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAKA,AAAA,UAAU,AAAC,CACP,SAAS,CAAE,KAAK,CACnB",
+    "sources": [
+        "../card-block/jeka-card-block.scss"
+    ],
+    "names": [],
+    "file": "jeka-card-block.css"
+}
