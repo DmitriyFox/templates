@@ -1,5 +1,25 @@
 {
   "dependencies": {
     "normalize.css": "^8.0.1"
-  }
+  },
+  "name": "y",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "pug": "^3.0.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DmitriyFox/templates.git"
+  },
+  "author": "DimaFox",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DmitriyFox/templates/issues"
+  },
+  "homepage": "https://github.com/DmitriyFox/templates#readme",
+  "description": ""
 }
