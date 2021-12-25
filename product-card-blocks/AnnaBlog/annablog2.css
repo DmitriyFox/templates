@@ -39,9 +39,9 @@ body {
 }
 .number-two::after {
     background-image: url(https://via.placeholder.com/184x81);
-    left: 88px;
     width: 184px;
     height: 81px;
+    left: 88px;
     top: calc(50% - 40px);
 
 }
