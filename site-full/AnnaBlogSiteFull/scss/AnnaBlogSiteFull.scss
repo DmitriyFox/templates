@@ -1,0 +1,18 @@
+*, *:after, *::before {
+    box-sizing: border-box;
+}
+body {
+    background-color: rgb(9, 0, 63);
+}
+.header {
+    max-width: 900px;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 60px;
+}
+
+// https://youtu.be/JDfSIUG1EAk?list=PL2zhi-fIpnXDmMyjgZ9zxnixsYPkRl1J8&t=1632
